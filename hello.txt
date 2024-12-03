@@ -1,2 +1,3 @@
 hello github this is my new session
 i love git and github
+i fucking hate windows
